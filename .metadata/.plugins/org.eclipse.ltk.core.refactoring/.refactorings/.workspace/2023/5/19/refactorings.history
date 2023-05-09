@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;MergeSortPrimer&apos; to &apos;MergeSortExample&apos;&#x0D;&#x0A;- Original element: &apos;MergeSortPrimer&apos;&#x0D;&#x0A;- Renamed element: &apos;MergeSortPrimer&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;MergeSortPrimer&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=MergeSortPrimer" name="MergeSortExample" references="true" stamp="1683631821114" version="1.0"/>
+</session>
